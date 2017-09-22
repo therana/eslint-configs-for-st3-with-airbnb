@@ -12,7 +12,7 @@ Before installation make sure you have installed `'SublimeLinter'` & `'Sublimeâ€
 )
   ```
 
-#### My configs for eslintr are
+#### My configs for .eslintrc are
   ```bash
 {
     "env": {
