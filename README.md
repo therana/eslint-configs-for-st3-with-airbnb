@@ -24,4 +24,4 @@ Before installation make sure you have installed `'SublimeLinter'` & `'Sublimeâ€
         "no-console": 2
     }
 }
-  ```sh
+  ```
